@@ -1,3 +1,5 @@
-Conversion funcitons neededs:
+Conversion functions needed:
 - Feet to m
 - Pound to kg
+- F to C
+- inch to cm
