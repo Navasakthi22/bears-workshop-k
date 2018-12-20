@@ -1,0 +1,3 @@
+Conversion funcitons neededs:
+- Feet to m
+- Pound to kg
